@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🥐 - ***Présentation de mon profil Github.***
 
-<!--
-**FloDuFnaF/FloDuFnaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧍 - ***Qui suis-je ?***
 
-Here are some ideas to get you started:
+- Je suis un joueur de jeux-vidéos, principalement casual et indépendant.
+- Utilisateur d'ordinateur depuis le plus jeune âge.
+- D'origine française, je suis fier de vivre en France.
+- Élève de première en spécialité NSI, dans le but de réussir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💘 - ***Qu'est-ce que j'aime ?***
+
+- **Jeux-vidéos** (bien évidemment)
+- **La musique** (jouer ou écouter)
+- **Programmer**
+- **Sociabiliser**
+
+## ⌨️ - ***Programmation***
+
+-> Mon but personnel est de posséder assez de connaissance informatique pour partir en cybersécurité. Donc maîtriser tout les languages importants serait bien, plus précisemment C++, Python, HTML...
+
+## 🗃️ - ***Mes contacts***
+
+- Mon Discord : "**flodufnaf**"
+- Mon Email : "**flodufnaf3@gmail.com**"
+- Mon ID Steam : "**1075427075**"
+
+---
+
+*FloDuFnaF*
