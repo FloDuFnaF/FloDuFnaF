@@ -1,5 +1,7 @@
 # 🥐 - ***Présentation de mon profil Github.***
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:967859821745430529)](https://discord.com/users/:967859821745430529)
+
 ## 🧍 - ***Qui suis-je ?***
 
 - Je suis un joueur de jeux-vidéos, principalement casual et indépendant.
