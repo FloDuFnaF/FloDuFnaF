@@ -1,31 +1,29 @@
-# 🥐 - ***Présentation de mon profil Github.***
+# 🥐 - ***Welcome to my profile.***
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/967859821745430529)](https://discord.com/users/967859821745430529)
 
-## 🧍 - ***Qui suis-je ?***
+## 🧍 - ***Who am i ?***
 
-- Je suis un joueur de jeux-vidéos, principalement casual et indépendant.
-- Utilisateur d'ordinateur depuis le plus jeune âge.
-- D'origine française, je suis fier de vivre en France.
-- Élève de première en spécialité NSI, dans le but de réussir.
+- A video game player.
+- A nerd who loves computers.
+- Student in need of greatness.
 
-### 💘 - ***Qu'est-ce que j'aime ?***
+### 💘 - ***What are my hobbies ?***
 
-- **Jeux-vidéos** (bien évidemment)
-- **La musique** (jouer ou écouter)
-- **Programmer**
-- **Sociabiliser**
+- **Video games** (dumbass)
+- **Music**
+- **Programming**
+- **Not to sociabilize**
 
 ## ⌨️ - ***Programmation***
 
--> Mon but personnel est de posséder assez de connaissance informatique pour partir en cybersécurité. Donc maîtriser tout les languages importants serait bien, plus précisemment C++, Python, HTML...
+-> Need to acknowledge enough things about coding to then study Cybersecurity.
 
 ## 🗃️ - ***Mes contacts***
 
-- Mon Discord : "**flodufnaf**"
-- Mon Email : "**flodufnaf3@gmail.com**"
-- Mon ID Steam : "**1075427075**"
+- Discord : "**flodufnaf**"
 
 ---
 
 *FloDuFnaF*
+For i, need to be the best.
