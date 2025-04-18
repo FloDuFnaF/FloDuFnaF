@@ -19,11 +19,12 @@
 
 -> Need to acknowledge enough things about coding to then study Cybersecurity.
 
-## 🗃️ - ***Mes contacts***
+## 🗃️ - ***Contact***
 
 - Discord : "**flodufnaf**"
 
 ---
 
 *FloDuFnaF*
+
 For i, need to be the best.
