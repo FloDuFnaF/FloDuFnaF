@@ -17,7 +17,7 @@
 
 ## ⌨️ - ***Programmation***
 
--> Need to acknowledge enough things about coding to then study Cybersecurity.
+-> Need to know enough things about coding to then study Cybersecurity.
 
 ## 🗃️ - ***Contact***
 
